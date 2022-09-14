@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(223, 222, 206);
+    font-size: 15px;
+    padding: 95px;
+    width: 720px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-weight: 90;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img {
+    width: 477px;
+}
